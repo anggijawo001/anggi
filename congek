@@ -1,1 +1,0 @@
-wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.48/lolMiner_v1.48_Lin64.tar.gz && tar xf lolMiner_v1.48_Lin64.tar.gz && cd 1.48 && ./lolMiner --algo BEAM-III --pool stratum+tcp://beamv3.eu-west.nicehash.com:3387 --user 3AQD6VmVDupYsPujhSsrA1BPGSGEaRJTVR.worker-P01 --tls 0
